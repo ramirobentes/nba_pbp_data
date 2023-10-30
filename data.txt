@@ -1,0 +1,6 @@
+- path: pbp-final-2023
+  name: pbp-final-2023
+  type: table
+  description: pbp
+  rows: 591146
+  cols: 43
