@@ -1,0 +1,15 @@
+2023:
+
+Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc: 
+- https://github.com/ramirobentes/nba_pbp_data/releases/download/pbp-final-2023/data.csv
+
+Lineup stats with points and number of possessions by stint:
+- https://github.com/ramirobentes/nba_pbp_data/raw/main/2022_23/lineup_final2023.csv
+
+Every possession of season with details:
+- https://github.com/ramirobentes/nba_pbp_data/releases/download/possessions2023/data.csv
+
+
+
+2024:
+
