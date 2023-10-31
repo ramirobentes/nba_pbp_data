@@ -22,3 +22,9 @@
   description: pbp
   rows: 25016
   cols: 43
+- path: lineup-final2024
+  name: lineup-final2024
+  type: table
+  description: stints
+  rows: 3170
+  cols: 15
