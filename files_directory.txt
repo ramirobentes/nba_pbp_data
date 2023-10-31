@@ -1,15 +1,12 @@
-2023:
+- Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc: 
+2023: https://github.com/ramirobentes/nba_pbp_data/releases/download/pbp-final-2023/data.csv
+2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2024/data.csv
 
-Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc: 
-- https://github.com/ramirobentes/nba_pbp_data/releases/download/pbp-final-2023/data.csv
+- Lineup stats with points and number of possessions by stint:
+2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup_final2023.csv
+2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup_final2024.csv
 
-Lineup stats with points and number of possessions by stint:
-- https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup_final2023.csv
-
-Every possession of season with details:
-- https://github.com/ramirobentes/nba_pbp_data/releases/download/possessions2023/data.csv
-
-
-
-2024:
+- Every possession of season with details:
+2023: https://github.com/ramirobentes/nba_pbp_data/releases/download/possessions2023/data.csv
+2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2024/data.csv
 
