@@ -10,3 +10,9 @@
   description: pbp
   rows: 247007
   cols: 11
+- path: possessions2024
+  name: possessions2024
+  type: table
+  description: possessions
+  rows: 10345
+  cols: 11

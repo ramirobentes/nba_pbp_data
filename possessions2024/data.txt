@@ -1,0 +1,22 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: possessions
+rows: 10345
+cols: 11
+columns:
+  game_id: character
+  period: numeric
+  start_time: hms
+  end_time: hms
+  team_poss: character
+  opp: character
+  poss_num_team: numeric
+  pts_poss: numeric
+  type_end: character
+  lineup_team: character
+  lineup_opp: character
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
