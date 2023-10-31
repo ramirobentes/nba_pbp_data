@@ -15,7 +15,7 @@ columns:
   msg_type: numeric
   act_type: numeric
   period: numeric
-  clock: hms
+  clock: character
   secs_game: numeric
   off_team_abb: character
   team_abb: character
@@ -35,7 +35,7 @@ columns:
   lineup_away: character
   possession: numeric
   and1: numeric
-  start_poss: hms
+  start_poss: character
   total_fta: numeric
   team_ft: character
   player_ft: character
