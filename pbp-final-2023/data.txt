@@ -1,5 +1,5 @@
 path:
-- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/133107928
+- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/133240776
 - data.rds
 type: table
 description: pbp
@@ -15,7 +15,7 @@ columns:
   msg_type: numeric
   act_type: numeric
   period: numeric
-  clock: hms
+  clock: character
   secs_game: numeric
   off_team_abb: character
   team_abb: character
@@ -35,7 +35,7 @@ columns:
   lineup_away: character
   possession: numeric
   and1: numeric
-  start_poss: hms
+  start_poss: character
   total_fta: numeric
   team_ft: character
   player_ft: character
@@ -50,5 +50,5 @@ columns:
   margin_before: numeric
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/133107928: data.csv
+  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/133240776: data.csv
   data.rds: data.rds
