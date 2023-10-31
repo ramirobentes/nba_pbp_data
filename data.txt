@@ -7,7 +7,7 @@
 - path: possessions2023
   name: possessions2023
   type: table
-  description: pbp
+  description: possessions
   rows: 247007
   cols: 11
 - path: possessions2024
