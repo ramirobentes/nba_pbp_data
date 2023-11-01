@@ -26,5 +26,5 @@
   name: lineup-final2024
   type: table
   description: stints
-  rows: 3170
+  rows: 3352
   cols: 15
