@@ -3,8 +3,8 @@
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2024/data.rds
 
 - Lineup stats with points and number of possessions by stint:
-2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup_final2023.csv
-2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup_final2024.csv
+2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2023/data.csv
+2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2024/data.csv
 
 - Every possession of season with details:
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2023/data.rds
