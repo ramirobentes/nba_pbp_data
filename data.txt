@@ -46,3 +46,9 @@
   description: pbp
   rows: 39353
   cols: 43
+- path: lineup-final-playoffs2023
+  name: lineup-final-playoffs2023
+  type: table
+  description: stints
+  rows: 4984
+  cols: 15
