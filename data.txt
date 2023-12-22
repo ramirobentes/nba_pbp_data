@@ -34,3 +34,9 @@
   description: stints
   rows: 74016
   cols: 15
+- path: possessions-playoffs2023
+  name: possessions-playoffs2023
+  type: table
+  description: possessions
+  rows: 16330
+  cols: 11
