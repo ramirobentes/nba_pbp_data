@@ -70,3 +70,9 @@
   description: stints
   rows: 74060
   cols: 15
+- path: possessions2021
+  name: possessions2021
+  type: table
+  description: possessions
+  rows: 216576
+  cols: 11
