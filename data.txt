@@ -100,3 +100,9 @@
   description: pbp
   rows: 519734
   cols: 43
+- path: lineup-final2020
+  name: lineup-final2020
+  type: table
+  description: stints
+  rows: 67210
+  cols: 15
