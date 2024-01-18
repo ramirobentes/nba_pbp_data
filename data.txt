@@ -136,3 +136,9 @@
   description: pbp
   rows: 572730
   cols: 43
+- path: lineup-final2018
+  name: lineup-final2018
+  type: table
+  description: stints
+  rows: 74018
+  cols: 15
