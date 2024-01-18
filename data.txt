@@ -124,3 +124,9 @@
   description: stints
   rows: 75468
   cols: 15
+- path: possessions2018
+  name: possessions2018
+  type: table
+  description: possessions
+  rows: 241730
+  cols: 11
