@@ -1,4 +1,5 @@
 - Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc: 
+2017: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2017/data.rds
 2018: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2018/data.rds
 2019: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2019/data.rds
 2020: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2020/data.rds
@@ -9,6 +10,7 @@
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2024/data.rds
 
 - Lineup stats with points and number of possessions by stint:
+2017: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2017/data.csv
 2018: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2018/data.csv
 2019: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2019/data.csv
 2020: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2020/data.csv
@@ -19,6 +21,7 @@
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2024/data.csv
 
 - Every possession of season with details:
+2017: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2017/data.rds
 2018: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2018/data.rds
 2019: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2019/data.rds
 2020: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2020/data.rds
