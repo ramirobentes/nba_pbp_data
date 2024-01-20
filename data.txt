@@ -172,3 +172,9 @@
   description: pbp
   rows: 569828
   cols: 39
+- path: lineup-final2016
+  name: lineup-final2016
+  type: table
+  description: stints
+  rows: 75172
+  cols: 15
