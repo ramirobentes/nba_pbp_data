@@ -26,7 +26,7 @@
   name: lineup-final2024
   type: table
   description: stints
-  rows: 48924
+  rows: 49080
   cols: 15
 - path: lineup-final2023
   name: lineup-final2023
