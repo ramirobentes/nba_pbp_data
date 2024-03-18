@@ -20,7 +20,7 @@
   name: pbp-final-2024
   type: table
   description: pbp
-  rows: 475643
+  rows: 483087
   cols: 43
 - path: lineup-final2024
   name: lineup-final2024
