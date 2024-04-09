@@ -87,7 +87,7 @@
   type: table
   description: stints
   rows: 64262
-  cols: 15
+  cols: 16
 - path: possessions2020
   name: possessions2020
   type: table
