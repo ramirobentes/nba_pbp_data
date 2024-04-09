@@ -141,7 +141,7 @@
   type: table
   description: stints
   rows: 74018
-  cols: 15
+  cols: 16
 - path: possessions2017
   name: possessions2017
   type: table
