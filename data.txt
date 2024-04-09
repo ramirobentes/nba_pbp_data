@@ -123,7 +123,7 @@
   type: table
   description: stints
   rows: 75468
-  cols: 15
+  cols: 16
 - path: possessions2018
   name: possessions2018
   type: table
