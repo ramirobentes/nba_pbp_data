@@ -51,7 +51,7 @@
   type: table
   description: stints
   rows: 4984
-  cols: 15
+  cols: 16
 - path: possessions2022
   name: possessions2022
   type: table
