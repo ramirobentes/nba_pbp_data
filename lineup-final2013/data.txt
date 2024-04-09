@@ -4,8 +4,9 @@ path:
 type: table
 description: stints
 rows: 70950
-cols: 15
+cols: 16
 columns:
+  game_date: Date
   game_id: character
   location_team: character
   period: numeric

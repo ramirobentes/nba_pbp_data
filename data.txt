@@ -219,7 +219,7 @@
   type: table
   description: stints
   rows: 70950
-  cols: 15
+  cols: 16
 - path: lineup-final2015
   name: lineup-final2015
   type: table
