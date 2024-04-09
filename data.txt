@@ -105,7 +105,7 @@
   type: table
   description: stints
   rows: 67210
-  cols: 15
+  cols: 16
 - path: possessions2019
   name: possessions2019
   type: table
