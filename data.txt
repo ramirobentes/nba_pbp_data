@@ -256,3 +256,9 @@
   description: pbp
   rows: 552425
   cols: 39
+- path: lineup-final2011
+  name: lineup-final2011
+  type: table
+  description: stints
+  rows: 71670
+  cols: 16
