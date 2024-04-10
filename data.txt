@@ -274,3 +274,9 @@
   description: pbp
   rows: 551448
   cols: 39
+- path: lineup-final2010
+  name: lineup-final2010
+  type: table
+  description: stints
+  rows: 70220
+  cols: 16
