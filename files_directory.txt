@@ -1,4 +1,5 @@
 - Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc:
+2011: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2011/data.rds
 2012: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2012/data.rds
 2013: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2013/data.rds
 2014: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2014/data.rds
@@ -15,6 +16,7 @@
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2024/data.rds
 
 - Lineup stats with points and number of possessions by stint:
+2011: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2011/data.csv
 2012: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2012/data.csv
 2013: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2013/data.csv
 2014: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2014/data.csv
@@ -31,6 +33,7 @@
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2024/data.csv
 
 - Every possession of season with details:
+2011: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2011/data.rds
 2012: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2012/data.rds
 2013: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2013/data.rds
 2014: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2014/data.rds
