@@ -13,8 +13,11 @@
 2021: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2021/data.rds
 2022: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2022/data.rds
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2023/data.rds
-2023 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2023/data.csv
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2024/data.rds
+
+2023 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2023/data.csv
+2024 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2024/data.csv
+
 
 - Lineup stats with points and number of possessions by stint:
 2010: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2010/data.csv
@@ -31,8 +34,11 @@
 2021: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2021/data.csv
 2022: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2022/data.csv
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2023/data.csv
-2023 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2023/data.csv
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2024/data.csv
+
+2023 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2023/data.csv
+2024 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2024/data.csv
+
 
 - Every possession of season with details:
 2010: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2010/data.rds
@@ -49,6 +55,7 @@
 2021: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2021/data.rds
 2022: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2022/data.rds
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2023/data.rds
-2023 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2023/data.csv
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2024/data.rds
 
+2023 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2023/data.csv
+2024 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2024/data.csv
