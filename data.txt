@@ -304,3 +304,9 @@
   description: possessions
   rows: 16495
   cols: 12
+- path: pbp-final-playoffs2022
+  name: pbp-final-playoffs2022
+  type: table
+  description: pbp
+  rows: 40606
+  cols: 43
