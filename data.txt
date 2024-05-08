@@ -310,3 +310,9 @@
   description: pbp
   rows: 40606
   cols: 43
+- path: lineup-final-playoffs2022
+  name: lineup-final-playoffs2022
+  type: table
+  description: stints
+  rows: 5322
+  cols: 15
