@@ -296,5 +296,5 @@
   name: lineup-final-playoffs2024
   type: table
   description: stints
-  rows: 2764
+  rows: 2898
   cols: 15
