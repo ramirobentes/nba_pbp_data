@@ -382,3 +382,9 @@
   description: pbp
   rows: 36146
   cols: 42
+- path: lineup-final-playoffs2017
+  name: lineup-final-playoffs2017
+  type: table
+  description: stints
+  rows: 4914
+  cols: 15
