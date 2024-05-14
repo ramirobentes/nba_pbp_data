@@ -1,0 +1,53 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: pbp
+rows: 36146
+cols: 42
+columns:
+  game_date: Date
+  game_id: character
+  team_home: character
+  team_away: character
+  event_num: numeric
+  number_event: numeric
+  msg_type: numeric
+  act_type: numeric
+  period: numeric
+  clock: character
+  secs_game: numeric
+  off_team_abb: character
+  team_abb: character
+  description: character
+  opt1: numeric
+  opt2: numeric
+  shot_pts: numeric
+  hs: numeric
+  vs: numeric
+  player1_name: character
+  player2_name: character
+  player3_name: character
+  locX: numeric
+  locY: numeric
+  lineup_home: character
+  lineup_away: character
+  possession: numeric
+  and1: numeric
+  start_poss: character
+  total_fta: numeric
+  team_ft: character
+  player_ft: character
+  type_foul: numeric
+  shot_pts_home: numeric
+  shot_pts_away: numeric
+  poss_home: numeric
+  poss_away: numeric
+  secs_played: numeric
+  total_starters_home: numeric
+  total_starters_away: numeric
+  margin_before: numeric
+  garbage_time: numeric
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
