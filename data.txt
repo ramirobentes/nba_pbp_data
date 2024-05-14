@@ -352,3 +352,9 @@
   description: stints
   rows: 5272
   cols: 15
+- path: possessions-playoffs2018
+  name: possessions-playoffs2018
+  type: table
+  description: possessions
+  rows: 15812
+  cols: 12
