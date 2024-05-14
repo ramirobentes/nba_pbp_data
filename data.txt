@@ -364,3 +364,9 @@
   description: pbp
   rows: 38059
   cols: 43
+- path: lineup-final-playoffs2018
+  name: lineup-final-playoffs2018
+  type: table
+  description: stints
+  rows: 5158
+  cols: 15
