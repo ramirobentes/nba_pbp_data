@@ -62,7 +62,7 @@
   name: pbp-final-2022
   type: table
   description: pbp
-  rows: 588292
+  rows: 588293
   cols: 43
 - path: lineup-final2022
   name: lineup-final2022
