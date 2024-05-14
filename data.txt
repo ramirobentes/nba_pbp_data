@@ -328,3 +328,9 @@
   description: pbp
   rows: 39867
   cols: 43
+- path: lineup-final-playoffs2020
+  name: lineup-final-playoffs2020
+  type: table
+  description: stints
+  rows: 5460
+  cols: 15
