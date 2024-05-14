@@ -322,3 +322,9 @@
   description: possessions
   rows: 16399
   cols: 12
+- path: pbp-final-playoffs2020
+  name: pbp-final-playoffs2020
+  type: table
+  description: pbp
+  rows: 39867
+  cols: 43
