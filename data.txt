@@ -316,3 +316,9 @@
   description: stints
   rows: 5322
   cols: 15
+- path: possessions-playoffs2020
+  name: possessions-playoffs2020
+  type: table
+  description: possessions
+  rows: 16399
+  cols: 12
