@@ -129,7 +129,7 @@
   type: table
   description: possessions
   rows: 241730
-  cols: 11
+  cols: 12
 - path: pbp-final-2018
   name: pbp-final-2018
   type: table
