@@ -418,3 +418,9 @@
   description: pbp
   rows: 38517
   cols: 39
+- path: lineup-final-playoffs2015
+  name: lineup-final-playoffs2015
+  type: table
+  description: stints
+  rows: 5296
+  cols: 15
