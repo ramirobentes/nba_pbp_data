@@ -152,7 +152,7 @@
   name: pbp-final-2017
   type: table
   description: pbp
-  rows: 567177
+  rows: 567183
   cols: 42
 - path: lineup-final2017
   name: lineup-final2017
