@@ -436,3 +436,9 @@
   description: pbp
   rows: 40446
   cols: 39
+- path: lineup-final-playoffs2014
+  name: lineup-final-playoffs2014
+  type: table
+  description: stints
+  rows: 5578
+  cols: 15
