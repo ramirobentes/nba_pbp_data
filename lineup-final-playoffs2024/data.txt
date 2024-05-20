@@ -3,9 +3,10 @@ path:
 - data.rds
 type: table
 description: stints
-rows: 3852
-cols: 15
+rows: 4120
+cols: 16
 columns:
+  game_date: Date
   game_id: character
   location_team: character
   period: numeric
