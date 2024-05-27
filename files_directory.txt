@@ -15,6 +15,7 @@
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2023/data.rds
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2024/data.rds
 
+2010 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2010/data.csv
 2011 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2011/data.csv
 2012 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2012/data.csv
 2013 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-playoffs2013/data.csv
@@ -47,6 +48,7 @@
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2023/data.csv
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2024/data.csv
 
+2010 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2010/data.csv
 2011 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2011/data.csv
 2012 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2012/data.csv
 2013 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final-playoffs2013/data.csv
@@ -79,6 +81,7 @@
 2023: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2023/data.rds
 2024: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2024/data.rds
 
+2010 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2010/data.csv
 2011 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2011/data.csv
 2012 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2012/data.csv
 2013 Playoffs: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions-playoffs2013/data.csv
