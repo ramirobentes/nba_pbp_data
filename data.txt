@@ -508,3 +508,9 @@
   description: possessions
   rows: 14828
   cols: 12
+- path: pbp-final-playoffs2010
+  name: pbp-final-playoffs2010
+  type: table
+  description: pbp
+  rows: 36861
+  cols: 39
