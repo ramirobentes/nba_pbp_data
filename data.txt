@@ -296,7 +296,7 @@
   name: lineup-final-playoffs2024
   type: table
   description: stints
-  rows: 4250
+  rows: 4516
   cols: 16
 - path: possessions-playoffs2022
   name: possessions-playoffs2022
