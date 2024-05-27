@@ -484,3 +484,9 @@
   description: stints
   rows: 5142
   cols: 15
+- path: possessions-playoffs2011
+  name: possessions-playoffs2011
+  type: table
+  description: possessions
+  rows: 14439
+  cols: 12
