@@ -514,3 +514,9 @@
   description: pbp
   rows: 36861
   cols: 39
+- path: lineup-final-playoffs2010
+  name: lineup-final-playoffs2010
+  type: table
+  description: stints
+  rows: 4894
+  cols: 15
