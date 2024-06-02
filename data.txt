@@ -464,7 +464,7 @@
   name: pbp-final-2015
   type: table
   description: pbp
-  rows: 562711
+  rows: 563671
   cols: 39
 - path: possessions-playoffs2012
   name: possessions-playoffs2012
