@@ -200,8 +200,8 @@
   name: lineup-final2014
   type: table
   description: stints
-  rows: 72002
-  cols: 16
+  rows: 72122
+  cols: 15
 - path: possessions2013
   name: possessions2013
   type: table
