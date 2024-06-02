@@ -188,7 +188,7 @@
   name: possessions2014
   type: table
   description: possessions
-  rows: 233688
+  rows: 234065
   cols: 12
 - path: pbp-final-2014
   name: pbp-final-2014
