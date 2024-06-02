@@ -266,7 +266,7 @@
   name: possessions2010
   type: table
   description: possessions
-  rows: 230641
+  rows: 230823
   cols: 12
 - path: pbp-final-2010
   name: pbp-final-2010
