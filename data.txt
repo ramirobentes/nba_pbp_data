@@ -194,7 +194,7 @@
   name: pbp-final-2014
   type: table
   description: pbp
-  rows: 559900
+  rows: 560842
   cols: 39
 - path: lineup-final2014
   name: lineup-final2014
