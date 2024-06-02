@@ -272,7 +272,7 @@
   name: pbp-final-2010
   type: table
   description: pbp
-  rows: 551448
+  rows: 551864
   cols: 39
 - path: lineup-final2010
   name: lineup-final2010
