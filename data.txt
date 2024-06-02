@@ -242,7 +242,7 @@
   name: lineup-final2012
   type: table
   description: stints
-  rows: 56966
+  rows: 57026
   cols: 16
 - path: possessions2011
   name: possessions2011
