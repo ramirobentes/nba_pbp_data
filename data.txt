@@ -314,7 +314,7 @@
   name: lineup-final-playoffs2022
   type: table
   description: stints
-  rows: 5322
+  rows: 5394
   cols: 15
 - path: possessions-playoffs2020
   name: possessions-playoffs2020
