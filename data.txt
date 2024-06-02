@@ -212,7 +212,7 @@
   name: pbp-final-2013
   type: table
   description: pbp
-  rows: 548577
+  rows: 548985
   cols: 39
 - path: lineup-final2013
   name: lineup-final2013
