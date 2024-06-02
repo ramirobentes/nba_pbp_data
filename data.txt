@@ -182,7 +182,7 @@
   name: possessions2015
   type: table
   description: possessions
-  rows: 233473
+  rows: 233878
   cols: 12
 - path: possessions2014
   name: possessions2014
