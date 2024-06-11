@@ -15,7 +15,7 @@
   type: table
   description: possessions
   rows: 245095
-  cols: 12
+  cols: 14
 - path: pbp-final-2024
   name: pbp-final-2024
   type: table
