@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: stints
-rows: 4842
+rows: 4896
 cols: 16
 columns:
   game_date: Date
