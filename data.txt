@@ -429,7 +429,7 @@
   type: table
   description: possessions
   rows: 16384
-  cols: 12
+  cols: 14
 - path: pbp-final-playoffs2014
   name: pbp-final-playoffs2014
   type: table
