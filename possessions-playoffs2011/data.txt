@@ -4,12 +4,14 @@ path:
 type: table
 description: possessions
 rows: 14439
-cols: 12
+cols: 14
 columns:
   game_id: character
   period: numeric
   start_time: character
   end_time: character
+  score_team_start: numeric
+  score_opp_start: numeric
   team_poss: character
   opp: character
   poss_num_team: numeric
