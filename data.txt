@@ -284,8 +284,8 @@
   name: possessions-playoffs2024
   type: table
   description: possessions
-  rows: 14815
-  cols: 12
+  rows: 15000
+  cols: 14
 - path: pbp-final-playoffs2024
   name: pbp-final-playoffs2024
   type: table
