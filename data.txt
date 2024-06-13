@@ -375,7 +375,7 @@
   type: table
   description: possessions
   rows: 15125
-  cols: 12
+  cols: 14
 - path: pbp-final-playoffs2017
   name: pbp-final-playoffs2017
   type: table
