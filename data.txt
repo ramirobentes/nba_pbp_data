@@ -303,7 +303,7 @@
   type: table
   description: possessions
   rows: 16687
-  cols: 12
+  cols: 14
 - path: pbp-final-playoffs2022
   name: pbp-final-playoffs2022
   type: table
