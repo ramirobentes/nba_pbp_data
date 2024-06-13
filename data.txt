@@ -339,7 +339,7 @@
   type: table
   description: possessions
   rows: 16227
-  cols: 12
+  cols: 14
 - path: pbp-final-playoffs2019
   name: pbp-final-playoffs2019
   type: table
