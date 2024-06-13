@@ -207,7 +207,7 @@
   type: table
   description: possessions
   rows: 229280
-  cols: 12
+  cols: 14
 - path: pbp-final-2013
   name: pbp-final-2013
   type: table
