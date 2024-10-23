@@ -520,3 +520,9 @@
   description: stints
   rows: 4894
   cols: 15
+- path: possessions2025
+  name: possessions2025
+  type: table
+  description: possessions
+  rows: 371
+  cols: 14
