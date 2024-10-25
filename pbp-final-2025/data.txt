@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: pbp
-rows: 6101
+rows: 8109
 cols: 43
 columns:
   game_date: Date
