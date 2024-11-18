@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: possessions
-rows: 38720
+rows: 40687
 cols: 14
 columns:
   game_id: character
