@@ -530,7 +530,7 @@
   name: pbp-final-2025
   type: table
   description: pbp
-  rows: 161532
+  rows: 164852
   cols: 43
 - path: lineup-final2025
   name: lineup-final2025
