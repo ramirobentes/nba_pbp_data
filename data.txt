@@ -75,7 +75,7 @@
   type: table
   description: possessions
   rows: 216576
-  cols: 13
+  cols: 14
 - path: pbp-final-2021
   name: pbp-final-2021
   type: table
