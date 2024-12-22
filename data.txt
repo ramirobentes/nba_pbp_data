@@ -536,5 +536,5 @@
   name: lineup-final2025
   type: table
   description: stints
-  rows: 25118
+  rows: 26000
   cols: 15
