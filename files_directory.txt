@@ -1,4 +1,17 @@
 - Edited play-by-play with lineups during every event, possession triggers, garbage time filter etc:
+1997: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-1997/data.rds
+1998: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-1998/data.rds
+1999: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-1999/data.rds
+2000: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2000/data.rds
+2001: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2001/data.rds
+2002: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2002/data.rds
+2003: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2003/data.rds
+2004: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2004/data.rds
+2005: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2005/data.rds
+2006: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2006/data.rds
+2007: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2007/data.rds
+2008: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2008/data.rds
+2009: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2009/data.rds
 2010: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2010/data.rds
 2011: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2011/data.rds
 2012: https://github.com/ramirobentes/nba_pbp_data/raw/main/pbp-final-2012/data.rds
