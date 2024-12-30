@@ -604,3 +604,9 @@
   description: pbp
   rows: 555447
   cols: 39
+- path: lineup-final2006
+  name: lineup-final2006
+  type: table
+  description: stints
+  rows: 74504
+  cols: 16
