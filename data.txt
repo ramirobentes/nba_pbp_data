@@ -712,3 +712,9 @@
   description: pbp
   rows: 550129
   cols: 39
+- path: lineup-final2000
+  name: lineup-final2000
+  type: table
+  description: stints
+  rows: 71282
+  cols: 16
