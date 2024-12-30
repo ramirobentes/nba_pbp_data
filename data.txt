@@ -640,3 +640,9 @@
   description: pbp
   rows: 532252
   cols: 39
+- path: lineup-final2004
+  name: lineup-final2004
+  type: table
+  description: stints
+  rows: 67792
+  cols: 16
