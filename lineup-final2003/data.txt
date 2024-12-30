@@ -1,0 +1,27 @@
+path:
+- data.csv
+- data.rds
+type: table
+description: stints
+rows: 67576
+cols: 16
+columns:
+  game_date: Date
+  game_id: character
+  location_team: character
+  period: numeric
+  stint: numeric
+  team: character
+  opp: character
+  lineup_team: character
+  lineup_opp: character
+  secs_game_start: numeric
+  secs_game_end: numeric
+  secs_played: numeric
+  poss_team: numeric
+  pts_team: numeric
+  poss_opp: numeric
+  pts_opp: numeric
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

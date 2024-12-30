@@ -658,3 +658,9 @@
   description: pbp
   rows: 534727
   cols: 39
+- path: lineup-final2003
+  name: lineup-final2003
+  type: table
+  description: stints
+  rows: 67576
+  cols: 16
