@@ -688,3 +688,9 @@
   description: possessions
   rows: 220933
   cols: 14
+- path: pbp-final-2001
+  name: pbp-final-2001
+  type: table
+  description: pbp
+  rows: 538522
+  cols: 39
