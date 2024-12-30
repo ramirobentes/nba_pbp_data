@@ -664,3 +664,9 @@
   description: stints
   rows: 67576
   cols: 16
+- path: possessions2002
+  name: possessions2002
+  type: table
+  description: possessions
+  rows: 219168
+  cols: 14
