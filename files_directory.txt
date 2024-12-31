@@ -46,6 +46,19 @@
 
 
 - Lineup stats with points and number of possessions by stint:
+1997: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final1997/data.csv
+1998: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final1998/data.csv
+1999: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final1999/data.csv
+2000: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2000/data.csv
+2001: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2001/data.csv
+2002: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2002/data.csv
+2003: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2003/data.csv
+2004: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2004/data.csv
+2005: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2005/data.csv
+2006: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2006/data.csv
+2007: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2007/data.csv
+2008: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2008/data.csv
+2009: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2009/data.csv
 2010: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2010/data.csv
 2011: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2011/data.csv
 2012: https://github.com/ramirobentes/nba_pbp_data/raw/main/lineup-final2012/data.csv
@@ -80,6 +93,19 @@
 
 
 - Every possession of season with details:
+1997: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions1997/data.rds
+1998: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions1998/data.rds
+1999: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions1999/data.rds
+2000: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2000/data.rds
+2001: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2001/data.rds
+2002: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2002/data.rds
+2003: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2003/data.rds
+2004: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2004/data.rds
+2005: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2005/data.rds
+2006: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2006/data.rds
+2007: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2007/data.rds
+2008: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2008/data.rds
+2009: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2009/data.rds
 2010: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2010/data.rds
 2011: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2011/data.rds
 2012: https://github.com/ramirobentes/nba_pbp_data/raw/main/possessions2012/data.rds
