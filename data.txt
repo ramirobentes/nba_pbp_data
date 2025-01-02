@@ -784,3 +784,9 @@
   description: pbp
   rows: 39181
   cols: 39
+- path: lineup-final-playoffs2021
+  name: lineup-final-playoffs2021
+  type: table
+  description: stints
+  rows: 5254
+  cols: 15
