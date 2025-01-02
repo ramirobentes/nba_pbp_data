@@ -772,3 +772,9 @@
   description: stints
   rows: 68350
   cols: 16
+- path: possessions-playoffs2021
+  name: possessions-playoffs2021
+  type: table
+  description: possessions
+  rows: 16448
+  cols: 14
