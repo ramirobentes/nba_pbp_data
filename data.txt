@@ -536,7 +536,7 @@
   name: lineup-final2025
   type: table
   description: stints
-  rows: 29970
+  rows: 30460
   cols: 15
 - path: possessions2009
   name: possessions2009
