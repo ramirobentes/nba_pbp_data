@@ -862,3 +862,9 @@
   description: possessions
   rows: 12379
   cols: 14
+- path: possessions-playoffs1997
+  name: possessions-playoffs1997
+  type: table
+  description: possessions
+  rows: 12745
+  cols: 14
