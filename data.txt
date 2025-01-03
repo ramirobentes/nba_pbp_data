@@ -802,3 +802,9 @@
   description: possessions
   rows: 15354
   cols: 14
+- path: possessions-playoffs2007
+  name: possessions-playoffs2007
+  type: table
+  description: possessions
+  rows: 14302
+  cols: 14
