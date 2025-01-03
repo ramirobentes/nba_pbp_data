@@ -796,3 +796,9 @@
   description: possessions
   rows: 15349
   cols: 14
+- path: possessions-playoffs2008
+  name: possessions-playoffs2008
+  type: table
+  description: possessions
+  rows: 15354
+  cols: 14
