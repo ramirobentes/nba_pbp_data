@@ -524,7 +524,7 @@
   name: possessions2025
   type: table
   description: possessions
-  rows: 110804
+  rows: 112989
   cols: 14
 - path: pbp-final-2025
   name: pbp-final-2025
