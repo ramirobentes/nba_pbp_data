@@ -1,9 +1,9 @@
 path:
-- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/228491694
+- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/228889090
 - data.rds
 type: table
 description: possessions
-rows: 158857
+rows: 161927
 cols: 14
 columns:
   game_id: character
@@ -21,5 +21,5 @@ columns:
   lineup_team: character
   lineup_opp: character
 filenames:
-  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/228491694: data.csv
+  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/228889090: data.csv
   data.rds: data.rds
