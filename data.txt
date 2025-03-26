@@ -56,7 +56,7 @@
   name: possessions2022
   type: table
   description: possessions
-  rows: 244118
+  rows: 244120
   cols: 14
 - path: pbp-final-2022
   name: pbp-final-2022
