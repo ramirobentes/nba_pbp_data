@@ -1,9 +1,9 @@
 path:
-- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/242316794
+- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/242629333
 - data.rds
 type: table
 description: pbp
-rows: 538894
+rows: 542658
 cols: 43
 columns:
   game_date: Date
@@ -50,5 +50,5 @@ columns:
   margin_before: numeric
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/242316794: data.csv
+  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/242629333: data.csv
   data.rds: data.rds
