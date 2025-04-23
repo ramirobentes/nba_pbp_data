@@ -892,3 +892,9 @@
   description: stints
   rows: 780
   cols: 15
+- path: pbp-poss-playoffs25
+  name: pbp-poss-playoffs25
+  type: table
+  description: possessions
+  rows: 5784
+  cols: 43
