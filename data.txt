@@ -886,3 +886,9 @@
   description: pbp
   rows: 6023
   cols: 43
+- path: lineup-final-playoffs2025
+  name: lineup-final-playoffs2025
+  type: table
+  description: stints
+  rows: 780
+  cols: 15
