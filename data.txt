@@ -884,7 +884,7 @@
   name: pbp-final-playoffs2025
   type: table
   description: pbp
-  rows: 26967
+  rows: 27906
   cols: 43
 - path: lineup-final-playoffs2025
   name: lineup-final-playoffs2025
