@@ -878,7 +878,7 @@
   name: possessions-playoffs2025
   type: table
   description: possessions
-  rows: 12118
+  rows: 12701
   cols: 14
 - path: pbp-final-playoffs2025
   name: pbp-final-playoffs2025
