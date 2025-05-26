@@ -890,7 +890,7 @@
   name: lineup-final-playoffs2025
   type: table
   description: stints
-  rows: 4288
+  rows: 4476
   cols: 15
 - path: pbp-poss-playoffs25
   name: pbp-poss-playoffs25
