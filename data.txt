@@ -904,3 +904,9 @@
   description: shots
   rows: 2224
   cols: 24
+- path: lineup-final2026
+  name: lineup-final2026
+  type: table
+  description: stints
+  rows: 5032
+  cols: 15
