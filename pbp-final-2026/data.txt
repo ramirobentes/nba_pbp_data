@@ -1,10 +1,10 @@
 path:
-- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/314796001
+- https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/323414657
 - data.rds
 type: table
 description: pbp
-rows: 72880
-cols: 39
+rows: 159484
+cols: 55
 columns:
   game_date: Date
   game_id: character
@@ -14,19 +14,35 @@ columns:
   number_event: numeric
   msg_type: numeric
   act_type: numeric
+  action_type: character
+  sub_type: character
+  qualifiers: character
   period: numeric
   clock: character
   secs_game: numeric
+  possession_team: character
   team_abb: character
   description: character
-  reb_type: character
+  descriptor: character
   shot_pts: numeric
-  hs: numeric
-  vs: numeric
-  person1type: numeric
+  score_home: numeric
+  score_away: numeric
   player1_name: character
   player2_name: character
   player3_name: character
+  shot_result: character
+  shot_action_number: numeric
+  x_loc: numeric
+  y_loc: numeric
+  order: numeric
+  official_id: numeric
+  foul_drawn_person_id: numeric
+  time_actual: POSIXct
+  is_field_goal: numeric
+  side: character
+  area: character
+  area_detail: character
+  shot_distance: numeric
   lineup_home: character
   lineup_away: character
   possession: numeric
@@ -46,5 +62,5 @@ columns:
   margin_before: numeric
   garbage_time: numeric
 filenames:
-  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/314796001: data.csv
+  https://api.github.com/repos/ramirobentes/nba_pbp_data/releases/assets/323414657: data.csv
   data.rds: data.rds
