@@ -908,7 +908,7 @@
   name: lineup-final2026
   type: table
   description: stints
-  rows: 23630
+  rows: 23828
   cols: 15
 - path: possessions2026
   name: possessions2026
