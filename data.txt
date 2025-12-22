@@ -914,7 +914,7 @@
   name: possessions2026
   type: table
   description: possessions
-  rows: 81414
+  rows: 85676
   cols: 14
 - path: pbp-final-2026
   name: pbp-final-2026
