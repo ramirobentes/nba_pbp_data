@@ -3,7 +3,7 @@ path:
 - data.rds
 type: table
 description: stints
-rows: 43130
+rows: 46822
 cols: 15
 columns:
   game_id: character
