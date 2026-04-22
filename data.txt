@@ -922,3 +922,9 @@
   description: pbp
   rows: 622187
   cols: 55
+- path: possessions-playoffs2026
+  name: possessions-playoffs2026
+  type: table
+  description: possessions
+  rows: 2688
+  cols: 14
