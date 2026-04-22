@@ -934,3 +934,9 @@
   description: pbp
   rows: 6974
   cols: 55
+- path: lineup-final-playoffs2026
+  name: lineup-final-playoffs2026
+  type: table
+  description: stints
+  rows: 940
+  cols: 15
