@@ -932,7 +932,7 @@
   name: pbp-final-playoffs2026
   type: table
   description: pbp
-  rows: 6974
+  rows: 16805
   cols: 55
 - path: lineup-final-playoffs2026
   name: lineup-final-playoffs2026
