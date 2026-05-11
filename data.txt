@@ -938,5 +938,5 @@
   name: lineup-final-playoffs2026
   type: table
   description: stints
-  rows: 3768
+  rows: 4178
   cols: 15
